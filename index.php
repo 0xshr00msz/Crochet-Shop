@@ -1,7 +1,7 @@
 <?php
 session_start();
-require_once 'config/database.php';
-require_once 'includes/ShopAlgorithms.php';
+require_once './config/database.php';
+require_once './includes/shopalgorithms.php';
 
 $shop = new ShopAlgorithms($pdo);
 $featuredProducts = $shop->getFeaturedProducts(6);
