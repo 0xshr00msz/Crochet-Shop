@@ -1,5 +1,7 @@
 # 🧶 Crochet Online Shop
 
+Project in Trisha nga gipabuhat sa akoa WAHAHAHAHAHA
+
 A complete PHP e-commerce website for selling handmade crochet products.
 
 ## Features
